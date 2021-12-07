@@ -13,3 +13,5 @@ It wont support multiple instruments as of yet.
 It should update in real time as you play, there is also keyboard input which i left in for testing.
 
 Any errors or bugs please try to report them in a log file and send the file to me.
+
+https://www.youtube.com/watch?v=5A2rcH2G1is
